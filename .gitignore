@@ -24,3 +24,6 @@ web_custom_versions/
 openapi.yaml
 filtered-openapi.yaml
 uv.lock
+
+# Custom API configuration (contains secrets)
+comfy_api_nodes/custom_api_config.json
