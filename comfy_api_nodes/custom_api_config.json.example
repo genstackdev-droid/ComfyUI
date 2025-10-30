@@ -1,0 +1,22 @@
+{
+  "openai": {
+    "base_url": "https://your-custom-openai-proxy.com/v1",
+    "api_key": "your-openai-api-key"
+  },
+  "stability": {
+    "base_url": "https://your-custom-stability-proxy.com",
+    "api_key": "your-stability-api-key"
+  },
+  "bfl": {
+    "base_url": "https://your-custom-bfl-proxy.com",
+    "api_key": "your-bfl-api-key"
+  },
+  "runway": {
+    "base_url": "https://your-custom-runway-proxy.com",
+    "api_key": "your-runway-api-key"
+  },
+  "luma": {
+    "base_url": "https://your-custom-luma-proxy.com",
+    "api_key": "your-luma-api-key"
+  }
+}
